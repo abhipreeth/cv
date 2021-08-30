@@ -1,0 +1,39 @@
+
+  body{background-color:#FDFAF6;}
+  hr{
+    background-color: white;
+    border-style: dotted none none;
+    border-color:#C8C6C6;
+    border-width:5px;
+    width: 5%;
+  }
+  h1{
+    color:#4B6587;
+    text-align: center;
+    font-family:Lucida Handwriting ,cursive;
+  }
+  h1:hover{
+    color:gold;
+  }
+
+h3{
+  color:#4B6587;
+}
+h3:hover{
+  color:black;
+  animation: 0.4s cubic-bezier(0.58, 0.3, 0.005, 1) 0s 1 normal none running jamOsi;
+}
+
+th{
+  color:#4B6587;
+}
+td{
+  color:#4B6587;
+}
+.abhi{
+  background-color:#4B6587;
+border-radius: 10%;
+}
+.tablecolor{
+color: #7F7C82;
+}
